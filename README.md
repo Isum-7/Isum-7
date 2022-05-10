@@ -4,7 +4,7 @@ Hi 👋 My name is Ziauddin Zohaer Isum
 Web Developer
 -------------
 
-I started web development 3 years ago. I have learned in these 3 years : HTML,CSS,JavaScript , React,PHP, Laravel . Now I am a full-stack developer.
+I started web development since 2019. I have learned in these 3 years : HTML,CSS,JavaScript , React,PHP, Laravel . Now I am a full-stack developer.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [zohaerisum.com](http://zohaerisum.com/#portfolio)
