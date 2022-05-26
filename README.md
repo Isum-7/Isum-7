@@ -1,4 +1,4 @@
-Hi 👋 My name is Ziauddin Zohaer Isum
+Hi 👋 I'm Ziauddin Zohaer Isum
 =====================================
 
 Web Developer
